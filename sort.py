@@ -19,16 +19,3 @@ for y in i:
     if y["DebitCredit"] == "C":
         print(True)
         print(y)
-
-
-# for y in i:
-#     if y["DebitCredit"] == "C":
-#         print (True)
-#         print(y)
-
-#print(type(i)) #<class 'list'>
-# for i in x["Statement"]:
-#     print(i)
-
-#print(x)
-# print(type(x))
