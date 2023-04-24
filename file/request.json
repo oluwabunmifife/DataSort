@@ -1,0 +1,14 @@
+{
+    "amount": 100,
+    "paymentReference": "123456789",
+    "serviceID": "GLO",
+    "CustomFields": [{
+        "name": "PhoneNumber",
+        "value": "08012345678"
+    },
+    {
+        "name": "PhoneNumber",
+        "value": "1239939849"
+    }
+]
+}
